@@ -8,6 +8,6 @@ A Random Forest model achieved ~0.81 ROC-AUC and was tuned to balance precision 
 
 Key finding: manager-level behavior was the strongest predictor of risk.
 
-## 📊 Key Drivers of Risk
+## Key Drivers of Risk
 
 ![Feature Importance](feature_importance.png)
